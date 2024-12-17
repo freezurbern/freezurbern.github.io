@@ -1,19 +1,19 @@
 {
-  "name": "fredhohman.github.io",
+  "name": "freezurbern.github.io",
   "version": "1.0.0",
-  "description": "Fred Hohman's website.",
+  "description": "Zachery Slocum's website.",
   "main": "index.js",
   "scripts": {
     "start": "bundle exec jekyll serve --livereload"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fredhohman/fredhohman.github.io.git"
+    "url": "git+https://github.com/freezurbern/freezurbern.github.io.git"
   },
-  "author": "Fred Hohman",
+  "author": "Zachery Slocum",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fredhohman/fredhohman.github.io/issues"
+    "url": "https://github.com/freezurbern/freezurbern.github.io/issues"
   },
-  "homepage": "https://github.com/fredhohman/fredhohman.github.io#readme"
+  "homepage": "https://github.com/freezurbern/freezurbern.github.io"
 }
